@@ -1,0 +1,49 @@
+[{
+    "title": "Apple Juice",
+    "type": "Juice",
+    "price": 250,
+    "description": "100% natural apple juice from DjStore is made from the finest apples, it is free from preservatives, artificial colors and flavors, and does not contain added sugar for a fresh and healthy natural taste!",
+    "productimg": "./images/apple.jpg"
+  }, {
+    "title": "Berry Juice",
+    "type": "Juice",
+    "price": 300,
+    "description": "100% natural berry juice from DjStore is made from the finest berries, it is free from preservatives, artificial colors and flavors, and does not contain added sugar for a fresh and healthy natural taste!",
+    "productimg": "./images/berry.jpg"
+  }, {
+    "title": "Grape Juice",
+    "type": "Juice",
+    "price": 280,
+    "description": "100% natural grape juice from DjStore is made from the finest grapes, it is free from preservatives, artificial colors and flavors, and does not contain added sugar for a fresh and healthy natural taste!",
+    "productimg": "./images/grape.jpg"
+  }, {
+    "title": "Mango Juice",
+    "type": "Juice",
+    "price": 220,
+    "description": "100% natural mango juice from DjStore is made from the finest mangoes, it is free from preservatives, artificial colors and flavors, and does not contain added sugar for a fresh and healthy natural taste!",
+    "productimg": "./images/mango.jpg"
+  }, {
+    "title": "Orange Juice",
+    "type": "Juice",
+    "price": 299,
+    "description": "100% natural orange juice from DjStore is made from the finest oranges, it is free from preservatives, artificial colors and flavors, and does not contain added sugar for a fresh and healthy natural taste!",
+    "productimg": "./images/orange.jpg"
+  }, {
+    "title": "Pear Juice",
+    "type": "Juice",
+    "price": 260,
+    "description": "100% natural pear juice from DjStore is made from the finest pears, it is free from preservatives, artificial colors and flavors, and does not contain added sugar for a fresh and healthy natural taste!",
+    "productimg": "./images/pear.jpg"
+  }, {
+    "title": "Cherry Juice",
+    "type": "Juice",
+    "price": 260,
+    "description": "100% natural cherry juice from DjStore is made from the finest cherries, it is free from preservatives, artificial colors and flavors, and does not contain added sugar for a fresh and healthy natural taste!",
+    "productimg": "./images/cherry.jpg"
+  }, {
+    "title": "Guava Juice",
+    "type": "Juice",
+    "price": 260,
+    "description": "100% natural guava juice from DjStore is made from the finest guavas, it is free from preservatives, artificial colors and flavors, and does not contain added sugar for a fresh and healthy natural taste!",
+    "productimg": "./images/guava.jpg"
+  }]
